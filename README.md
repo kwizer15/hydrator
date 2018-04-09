@@ -1,5 +1,7 @@
 # Hydrator
 
+[![Build Status](https://travis-ci.org/kwizer15/hydrator.svg?branch=master)](https://travis-ci.org/kwizer15/hydrator)
+
 A simple hydrator without mapping.
 
 ## Why
